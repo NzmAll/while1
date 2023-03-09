@@ -1,4 +1,4 @@
-﻿using System.Xml.Schema;
+using System.Xml.Schema;
 
 namespace while1;
 internal class Program
@@ -36,10 +36,14 @@ internal class Program
 
         if (total > 1000)
         {
+            Console.WriteLine("1000-dən yuxarı alış-veriş etdiyiniz üçün endirim qazandınız!!!");
+            Console.WriteLine("");
+
             Console.Write("Endirim faizi : ");
             discountPrice = decimal.Parse(Console.ReadLine()!);
             total = total - total * discountPrice / 100;
             Console.WriteLine("Endirimli qiymeti : " + total);
+
         }
 
         else
