@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\while\while1\while1\bin\Debug\net6.0\while1.exe
+C:\Users\Asus\Desktop\while\while1\while1\bin\Debug\net6.0\while1.deps.json
+C:\Users\Asus\Desktop\while\while1\while1\bin\Debug\net6.0\while1.runtimeconfig.json
+C:\Users\Asus\Desktop\while\while1\while1\bin\Debug\net6.0\while1.dll
+C:\Users\Asus\Desktop\while\while1\while1\bin\Debug\net6.0\while1.pdb
+C:\Users\Asus\Desktop\while\while1\while1\obj\Debug\net6.0\while1.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\while\while1\while1\obj\Debug\net6.0\while1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\while\while1\while1\obj\Debug\net6.0\while1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\while\while1\while1\obj\Debug\net6.0\while1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\while\while1\while1\obj\Debug\net6.0\while1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\while\while1\while1\obj\Debug\net6.0\while1.dll
+C:\Users\Asus\Desktop\while\while1\while1\obj\Debug\net6.0\refint\while1.dll
+C:\Users\Asus\Desktop\while\while1\while1\obj\Debug\net6.0\while1.pdb
+C:\Users\Asus\Desktop\while\while1\while1\obj\Debug\net6.0\while1.genruntimeconfig.cache
+C:\Users\Asus\Desktop\while\while1\while1\obj\Debug\net6.0\ref\while1.dll
