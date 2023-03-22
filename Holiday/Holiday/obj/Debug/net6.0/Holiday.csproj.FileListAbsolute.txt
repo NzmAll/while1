@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\while\Holiday\Holiday\bin\Debug\net6.0\Holiday.exe
+C:\Users\Asus\Desktop\while\Holiday\Holiday\bin\Debug\net6.0\Holiday.deps.json
+C:\Users\Asus\Desktop\while\Holiday\Holiday\bin\Debug\net6.0\Holiday.runtimeconfig.json
+C:\Users\Asus\Desktop\while\Holiday\Holiday\bin\Debug\net6.0\Holiday.dll
+C:\Users\Asus\Desktop\while\Holiday\Holiday\bin\Debug\net6.0\Holiday.pdb
+C:\Users\Asus\Desktop\while\Holiday\Holiday\obj\Debug\net6.0\Holiday.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\while\Holiday\Holiday\obj\Debug\net6.0\Holiday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\while\Holiday\Holiday\obj\Debug\net6.0\Holiday.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\while\Holiday\Holiday\obj\Debug\net6.0\Holiday.AssemblyInfo.cs
+C:\Users\Asus\Desktop\while\Holiday\Holiday\obj\Debug\net6.0\Holiday.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\while\Holiday\Holiday\obj\Debug\net6.0\Holiday.dll
+C:\Users\Asus\Desktop\while\Holiday\Holiday\obj\Debug\net6.0\refint\Holiday.dll
+C:\Users\Asus\Desktop\while\Holiday\Holiday\obj\Debug\net6.0\Holiday.pdb
+C:\Users\Asus\Desktop\while\Holiday\Holiday\obj\Debug\net6.0\Holiday.genruntimeconfig.cache
+C:\Users\Asus\Desktop\while\Holiday\Holiday\obj\Debug\net6.0\ref\Holiday.dll

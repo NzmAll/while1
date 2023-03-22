@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\while\atHome\atHome\bin\Debug\net6.0\atHome.exe
+C:\Users\Asus\Desktop\while\atHome\atHome\bin\Debug\net6.0\atHome.deps.json
+C:\Users\Asus\Desktop\while\atHome\atHome\bin\Debug\net6.0\atHome.runtimeconfig.json
+C:\Users\Asus\Desktop\while\atHome\atHome\bin\Debug\net6.0\atHome.dll
+C:\Users\Asus\Desktop\while\atHome\atHome\bin\Debug\net6.0\atHome.pdb
+C:\Users\Asus\Desktop\while\atHome\atHome\obj\Debug\net6.0\atHome.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\while\atHome\atHome\obj\Debug\net6.0\atHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\while\atHome\atHome\obj\Debug\net6.0\atHome.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\while\atHome\atHome\obj\Debug\net6.0\atHome.AssemblyInfo.cs
+C:\Users\Asus\Desktop\while\atHome\atHome\obj\Debug\net6.0\atHome.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\while\atHome\atHome\obj\Debug\net6.0\atHome.dll
+C:\Users\Asus\Desktop\while\atHome\atHome\obj\Debug\net6.0\refint\atHome.dll
+C:\Users\Asus\Desktop\while\atHome\atHome\obj\Debug\net6.0\atHome.pdb
+C:\Users\Asus\Desktop\while\atHome\atHome\obj\Debug\net6.0\atHome.genruntimeconfig.cache
+C:\Users\Asus\Desktop\while\atHome\atHome\obj\Debug\net6.0\ref\atHome.dll
