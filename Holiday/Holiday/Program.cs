@@ -65,24 +65,64 @@
 
             /* 4. */
 
-            Console.Write("Metni daxil edin: ");
-            string text = Console.ReadLine()!;
+            //Console.Write("Metni daxil edin: ");
+            //string text = Console.ReadLine()!;
 
-            for(int i = 0; i < text.Length; i++)
-            {
-                if (text[i] != 'y' && text[i+1] != 't')
-                {
-                    Console.Write(text[i]);
-                }
-                else if (text[0] == 'y' && text[1] == 't')
-                {
-                    Console.Write(text[i]);
-                }
-                else
-                {
-                    Console.Write(text);
-                }
-            }
+            //for(int i = 0; i < text.Length; i++)
+            //{
+            //    if (text[0] == 'y' && text[1] == 't')
+            //    {
+            //        Console.Write(text);
+            //        break;
+            //    }
+            //    else if (text[i] != 'y' && text[i + 1] != 't')
+            //    {
+            //        Console.Write(text);
+            //        break;
+            //    }
+
+            //}
+
+
+
+
+
+            /* 5. İlk 10 natural ədədin cəmini tapmaq üçün C# Sharp proqramı yazın.*/
+
+            //int total = 0;
+
+            //for (int i = 1; i <= 10; i++)
+            //{
+            //    total += i;
+            //}
+            //Console.WriteLine(total);
+
+
+
+
+            /* 6. C# Sharp dilində klaviaturadan 10 ədədi oxumaq və onların cəmini və ortasını tapmaq üçün proqram yazın.*/
+
+            //int total = 0;
+
+            //for (int i = 1; i <= 10; i++)
+            //{
+            //    total += i;
+            //}
+            //Console.WriteLine("Cemi: " + total);
+            //Console.WriteLine("Ortasi: " + (total / 10.0)); 
+
+
+
+
+            /* 7. */
+
+
+
+
+
+
+
+
 
 
         }
